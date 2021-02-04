@@ -79,10 +79,10 @@ What are you planning to build? What do you reasonably think you can implement i
 
 ### **LATER ITERATIONS**
 
-4. Implement different LeaderBoards depending on user data, e.i. Friends, Country
+4. Implement Flags API to display users countries flags
 
-5. Add Responsive design for mobile and movement based on phone rotation
+5. Implement different LeaderBoards depending on user data, e.i. Friends, Country
 
-6. Implement Flags API to display users countries flags
+6. Add Responsive design for mobile and movement based on phone rotation
 
 7. Better "physics" and more level iteraction
