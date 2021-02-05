@@ -1,4 +1,4 @@
-<!-- # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60">  -->
+
 # Project 3 - Capstone Project - TEPID TOWER
 
 INSPIRED BY ICY TOWER
@@ -51,7 +51,10 @@ What are you planning to build? What do you reasonably think you can implement i
 
 * The player's info card will pop pup with their username, email and country
 
-* There the player will be able to add friends by typing their email
+    * username and email are both editable by typing in the input box
+
+    * The player will also be able to add friends by typing their email in the "add friend" input
+
 * Player will also be able to log out or delete their account by clicking the respective icons on the bottom right of the pop up
 
 ## **WIREFRAMES** 
