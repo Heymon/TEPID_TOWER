@@ -3,6 +3,11 @@
 
 INSPIRED BY ICY TOWER
 
+## Contents
+
+* **[FRONTEND REPO](https://git.generalassemb.ly/heymon/frontend-tepid-tower)**
+* **[BACKEND REPO](https://git.generalassemb.ly/heymon/backend-tepid-tower)**
+
 ## **Scope** 
 ---
 For this project I will try to push html and css to the best of my abilities with the help of React's OOP functionalities and create a infinite jumper gamer.
